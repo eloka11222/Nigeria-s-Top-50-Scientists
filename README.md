@@ -19,12 +19,12 @@ In August of 2021, I analyzed the top 50 scientists in Nigeria. My goal was to f
 -	Modelling and visualizations with power BI
 
 ## Data Sourcing
-The data was gotten from AD Scientific index. A website that was created to record the current standings of scientists globally you can visit the Website here: ![AD Scientific](https://www.adscientificindex.com/?country_code=ng). I filtered the data at the source to get only data from Nigeria since I learned that data should be queried and cleaned as far upstream as possible to reduce the model size better optimizing the model making it more performant. 
+The data was gotten from AD Scientific index. A website that was created to record the current standings of scientists globally you can visit the Website here: [AD Scientific](https://www.adscientificindex.com/?country_code=ng). I filtered the data at the source to get only data from Nigeria since I learned that data should be queried and cleaned as far upstream as possible to reduce the model size better optimizing the model making it more performant. 
 
 ## Data Cleaning
 ![](Data.jpg)
 
-I Used excel to clean the data and Power Bi for the modelling and Visualization. This was way before I learnt to use power bi for data transformations. Thankfully, The data didn’t really need much cleaning since it was already a html table. All I had to do was to define my data types. Then I did a little bit of cleaning to remove the txt errors and unprintable text using a combination of CLEAN and TRIM formulas in Excel. I also had to do a bit of data aggregation using the COUNTIF formula (again, this was before I learnt to use power query effectively lol) to get the total number of scientists per university and region. 
+I Used excel to clean the data and Power Bi for the modelling and Visualization. This was way before I learnt to use power bi for data transformations. Thankfully, The data didn’t really need much cleaning since it was already a html table. All I had to do was to define my data types. Then I did a little bit of cleaning to remove the text errors and unprintable text using a combination of CLEAN and TRIM formulas in Excel. I also had to do a bit of data aggregation using the COUNTIF formula (again, this was before I learnt to use power query effectively lol) to get the total number of scientists per university and region. 
 
 ## Modelling
 ![](model.jpg)
@@ -47,5 +47,5 @@ I based my decision of the most recognized scientist on the total number of cita
 This project proved a public opinion that the southwest has some of the most educated individuals while the north has the last. 
 I believe research funding, publishing support and more advanced research methodologies can go a long way in improving this number. 
 with my current knowledge, maybe I’ll rework this project and instead of importing the dataset, ill just make a live connection to the website so I can keep the dashboard updated at all times.
-You can view the document in PDF format [here](top scientists.pdf)
+You can view the document in PDF format [here](https://github.com/eloka11222/Nigeria-s-Top-50-Scientists/blob/main/top%20scientists.pdf)
 
