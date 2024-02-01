@@ -42,8 +42,6 @@ I based my decision of the most recognized scientist on the total number of cita
 - A majority of the top 50 recognized scientists in Nigeria work in the Southwest of the country with the university of Ife having 14 of them as permanent staff and over 200,000 citations in total accounting for - over 60% of the total citations from the region. 
 - I also found that the northwest has the least number of citations.
 
-you can view and interact with the dashboard [here](https://app.powerbi.com/groups/me/reports/e1137d86-636f-43d6-b1ed-c241dc24ff74?ctid=9498609f-015c-4801-9208-cb37caad375a&pbi_source=linkShare)
-
 ## Conclusion
 
 This project proved a public opinion that the southwest has some of the most educated individuals while the north has the last. 
