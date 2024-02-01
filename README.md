@@ -31,7 +31,7 @@ I Used excel to clean the data and Power Bi for the modelling and Visualization.
 I used the Star Schema as a modelling template to build the model. I used a 1 to many and 1 to 1 relationship in the model. Now that I think about it, maybe I’ll just merge the two tables with 1-1 relationship following best practices.
 
 ## Visualization and Analysis
-[](dashboard.jpg)
+![](dashboard.jpg)
 
 Since this was a visualization that was made to compare different attributes, I decided to keep it simple with cards, column charts and tables. As this are some of the best visuals for this purpose. I followed the 60-30-10 rule of visualization which says that 60% of your color scheme should serve as the focal point of the visuals and  should be as unobtrusive as possible (I chose light grey for this), 30% of the color scheme should create contrast against the background color (I chose black for this), and 10% should be used to draw attention (I used dark green for this).
 
