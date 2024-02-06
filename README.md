@@ -47,5 +47,5 @@ I based my decision of the most recognized scientist on the total number of cita
 This project proved a public opinion that the southwest has some of the most educated individuals while the north has the last. 
 I believe research funding, publishing support and more advanced research methodologies can go a long way in improving this number. 
 with my current knowledge, maybe I’ll rework this project and instead of importing the dataset, ill just make a live connection to the website so I can keep the dashboard updated at all times.
-You can view the document in PDF format [here](https://github.com/eloka11222/Nigeria-s-Top-50-Scientists/blob/main/top%20scientists.pdf)
+You can view and interact with the report [here](https://app.powerbi.com/view?r=eyJrIjoiZmEwNDJiNWUtYWJjYi00MTAzLWIzOWUtY2U0Njg5ODE5ZjMxIiwidCI6Ijk0OTg2MDlmLTAxNWMtNDgwMS05MjA4LWNiMzdjYWFkMzc1YSIsImMiOjZ9)
 
